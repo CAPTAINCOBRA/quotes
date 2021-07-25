@@ -1,5 +1,6 @@
 # Quotes Generetor
 
+# Access here - https://wisecrack.netlify.app/
 
 # Getting Started with Create React App
 
